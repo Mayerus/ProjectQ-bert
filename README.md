@@ -5,4 +5,4 @@ An ASMx8086 reimplementaion of the legandary arcade game **[Q*bert](http://www.h
 ## Instructions
 
 
-## Main features:
+## Main features
