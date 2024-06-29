@@ -13,3 +13,5 @@ You have 3 lives and you may lose one when one of the following occurs:
 Slick (the green character) resets the colour of every cube he treads on. You can eliminate Slick from the pyramid by meeting with him on the same cube (he will reappear after a while). 
 
 ## Main features
+- Localized rendering: only active areas of the screen are being rerendered in order to supply a smooth gaming experience.
+- Randomised bots: Slick and WrongWay are generated using randomised properties, so stay on your toes as they may appear just behind you!👻
